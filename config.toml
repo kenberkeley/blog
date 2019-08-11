@@ -1,4 +1,18 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://kenberkeley.github.io/"
 theme = "ananke"
+
+defaultContentLanguage = "zh"
+hasCJKLanguage = true
+
+[languages]
+[languages.zh]
+weight = 0
+title  = "土澳码农 Ken 的博客"
+languageCode = "zh"
+languageName = "简体中文"
+
+[languages.en]
+weight = 1
+title = "Aussie coder Ken's blog"
+languageCode = "en"
+languageName = "English"
