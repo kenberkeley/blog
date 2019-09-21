@@ -15,7 +15,9 @@ tag:
 
 1. 电面 (Phone screening interview)
 2. 做题 (Coding exercises / Technical challenges)
-3. 现场面试（Onsite or Remote interview, 大厂可能有多轮）
+3. 现场面试（Onsite or Remote interview，大厂可能有多轮）  
+  · 技术面试 (Technical interview)  
+  · 行为面试 (Behavioral interview)
 4. Offer
 5. 背调（Reference check, 小厂可能没有）
 
