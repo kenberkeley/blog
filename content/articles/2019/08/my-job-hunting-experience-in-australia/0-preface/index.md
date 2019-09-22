@@ -29,4 +29,4 @@ tag:
 
 本系列文章，是我对过去这段跌宕起伏的求职经历的总结，致力于打造成「如果一开始就有这些指引，就好了」的模样。上面也提到，这属于「抛砖引玉」，且完全开源。你可以添砖加瓦（评论、开 issues、提 PR 等 TODO: link to Github edit），为后人打造出更加完备的澳洲求职知识库。
 
-> 在整合资源方面，「[澳洲 IT 匠人圈](https://jiangren.com.au)」无疑是业内领先，在此衷心致敬。
+> 在整合资源方面，「[澳洲匠人学院（IT 匠人圈）](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw/videos)」无疑是业内领先，在此衷心致敬。
