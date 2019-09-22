@@ -4,6 +4,7 @@
 
 * Coding exercise
 * Coding challenge
+* Coding test
 * Technical challenge
 * Home assignment
 * ... (TODO: 有待同行补充)
