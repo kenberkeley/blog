@@ -21,16 +21,15 @@
 ### 开场白
 
 首先，如果你的简历有 Summary，那绝对不能照着念。  
-因此简历上的 Summary 不能太详细，否则就没话可说了。
+所以简历上的 Summary 不能太细，否则就没话可说了。
 
-无论什么面试，第一个问题基本都是「自我介绍」。  
-如果说其他面试纯属惯例，面试官趁机可以阅读你的简历。  
-那么对于行为面试，开场白其实就是已经开始计分了。
+无论什么面试，第一个问题基本都是「简单地进行自我介绍」。  
+在其他面试这是惯例，供还没来得及看简历的面试官趁机阅读。  
+但对于正式的行为面试来说，开场白其实就已经开始算分了。  
+判断的依据是，从你开始说到结束，对方几乎全程都在看着你。
 
-开场白过长则显得啰嗦，而过短又显得准备不充分。  
-尤其是对于行为面试，开场白就已经算是开始计分了。
-
-例如，我通常都是用「总 - 分 - 总」形式的自我总结：
+开场白过长则显得啰嗦，而过短又显得准备不够充分。  
+因此，我通常都是用「总 - 分 - 总」形式的自我总结：
 
 ```
 Hello, I am Ken.
@@ -38,19 +37,24 @@ Hello, I am Ken.
 I have been a front-end developer for over 3 years.
 // 开头就列出工作经验，让没看过或已淡忘你简历内容的面试官有个底
 
-And I also do some backend stuff, such as Node.js SSR, databases, AWS, etc.
+But I also do some backend stuff, such as Node.js SSR, databases, AWS, etc.
 // 展示我也有后端的经验，人手不够的时候可以当急用哦
 
-I have the experience from jQuery legacy projects to modern frameworks and tools.
-So that I can make the best use of them, instead of being bound by them.
-// 展示出自认为比其他候选人更突出的经验与优势
+I have the experience from jQuery legacy projects to modern frameworks and tools,
+meaning I can make the best use of them, instead of being bound by them.
+// 展示出自认为比其他候选人更突出的优势
 
-I have been learning and sharing the new technologies, skills and ideas,
-bring
+I have been learning and sharing new technologies, skills and ideas,
+trying to bring more best practices and productivity to my team.
+// 展现出紧跟潮流，热爱学习，热爱分享，秉承最佳实践的职业风范
+
+So, I hope I can bring some fresh air to your team.
+// 优雅地来一句结语，等待对方的反应
 ```
 
 当然，每个人都应该有自己的风格，千篇一律反而会失去真我。  
-尤其是对于部分职位，你还应该根据其内容进行编排，而不能 Universal。
+尤其是对于部分职位，你还应该根据其内容进行编排，而不能 Universal。  
+例如在结尾的时候讲讲为什么你会适合这个岗位等。
 
 重要的是，不卑不亢地表现出自己的经验，以及学习能力。
 
