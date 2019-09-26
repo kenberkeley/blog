@@ -135,3 +135,6 @@ Pair 属于 Agile 的实践，但实际上很多公司的日常开发都不会�
   炫技一定要适度，否则人家会觉得你「overqualified」而拒绝你。
 
 * 前端面试时，有时可能要用到 Live Server，请提前装好[插件](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)。
+
+* 提前准备结尾时问面试官的问题，例如「团队技术栈」等。  
+  TODO: github link of reverse questions
