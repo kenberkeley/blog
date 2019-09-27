@@ -29,7 +29,7 @@
 
 - ...（TODO：有待其他同行补充）
 
-如果你是异地求职，你可能还需要关注是否提供 relocation fee 等。
+如果你是异地求职，你可能还需要关注房租以及消费水平差异，是否提供 relocation fee 等。
 
 > 你可以通过 [Glassdoor](https://www.glassdoor.com.au) 查看各公司的福利待遇。  
 > 例如，搜索「REA」后进入详情页，点击 [Benefits](https://www.glassdoor.com.au/Benefits/REA-Group-Australia-Benefits-EI_IE324527.0,9_IL.10,19_IN16.htm)。
