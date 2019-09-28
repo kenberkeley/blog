@@ -20,7 +20,7 @@
   简历扫雷高级玩家，帮我省了不少命。
 
 * [光](https://www.linkedin.com/in/xu-guang)  
-  面试套路老司机。
+  面试套路启蒙老司机。
 
 * [Molly](https://www.linkedin.com/in/jiewenwang)  
   老同事 + 移友 + 难姐难弟。作为新移民，我们一起求职，也几乎同时收到心仪的 offer。
@@ -34,7 +34,7 @@
 ## 其他参考资料
 
 * 匠人学院（[YouTube](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw)，[知乎文章](https://www.zhihu.com/people/jrit-9/posts)）
-* [如何到澳洲工作 - Github](https://github.com/wahyd4/work-in-australia)
-* [程序员如何找工作？ - LY羊 的 YouTube](https://youtu.be/pUZK32GCRHg)
-* 自行 Google 搜索
+* [Junv：如何到澳洲工作 - Github](https://github.com/wahyd4/work-in-australia)
+* [LY羊：程序员如何找工作？- YouTube](https://youtu.be/pUZK32GCRHg)
+* *自行 Google 搜索*
 * *TODO：请同行们继续补充*
