@@ -28,13 +28,11 @@
 * [Jing](https://www.linkedin.com/in/jing-zhou-743201160) & [Bonne](https://www.linkedin.com/in/imzhudan)  
   现 Sportsbet 同事
 
-* [Junv](https://www.linkedin.com/in/junwei-zhao-46944557)  
-  Github 上 1.5k+ stars repo「[如何到澳洲工作](https://github.com/wahyd4/work-in-australia)」的作者。
-
 ## 其他参考资料
 
 * 匠人学院（[YouTube](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw)，[知乎文章](https://www.zhihu.com/people/jrit-9/posts)）
 * [Junv：如何到澳洲工作 - Github](https://github.com/wahyd4/work-in-australia)
 * [LY羊：程序员如何找工作？- YouTube](https://youtu.be/pUZK32GCRHg)
+* [JeffreyLi：我的墨尔本求职之旅 - 简书](https://www.jianshu.com/p/2b797dd42cba)
 * *自行 Google 搜索*
 * *TODO：请同行们继续补充*

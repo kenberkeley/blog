@@ -108,7 +108,7 @@ Pair 属于 Agile 的实践，但实际上很多公司的日常开发都不会�
 * 全程保持良好的交流沟通  
   写代码时，不一定要没话找话，但一定要表现出热情与合作。  
   **一定要牢记，面试官这是在选同事，一定要表现出你是很 nice 的人**。  
-  需求能做完固然好，但做不完也没关系，因为重点是**解题思路与沟通协作能力**。
+  需求能做完固然好，但做不完也还好，因为重点是**解题思路与沟通协作能力**。
 
   例如，文件切来切去，面试官未必熟悉代码结构，因此最好告诉对方你要干嘛。  
   又如，当初实现时就考虑到了拓展性，那么你也应该在相应的代码块解释一番。  
@@ -137,4 +137,4 @@ Pair 属于 Agile 的实践，但实际上很多公司的日常开发都不会�
 * 前端面试时，有时可能要用到 Live Server，请提前装好[插件](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)。
 
 * 提前准备结尾时问面试官的问题，例如「团队技术栈」等。  
-  TODO: github link of reverse questions
+  可参考 [反向面试](https://github.com/yifeikong/reverse-interview-zh) 中的问题列表。
