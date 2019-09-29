@@ -4,7 +4,7 @@
 
 1. 电面 (Phone screening interview)
 2. 做题 (Coding exercises / Technical challenges)
-3. 现场面试（Onsite interview，大厂可能有多轮）  
+3. 现场面试（Onsite or Remote interview，大厂可能有多轮）  
   · 技术面试 (Technical interview)  
   · 行为面试 (Behavioral interview)
 4. Offer
@@ -18,6 +18,8 @@
 * 现场面试可以提前到，但不建议过早签到，避免影响别人的安排。  
   例如，提前 30 min 到了，但最好在接待厅歇 20 min 后才签到。
 * 面试前上 Glassdoor 查阅面经，可能会有意想不到的收获。
+
+* 明明通过了，但迟迟不安排下一轮面试，或者迟迟不发 offer，那就是备胎
 
 所有的这些流程，在我看来就像是一个漏斗。  
 面对海量的求职者，招聘方的资源显得非常有限。  
