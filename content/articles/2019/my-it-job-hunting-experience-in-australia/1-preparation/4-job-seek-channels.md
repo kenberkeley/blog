@@ -1,5 +1,5 @@
 ---
-title: 我的澳洲 IT 求职经历 · 准备工作 · 求职渠道
+title: 我的澳洲 IT 求职经历 · 准备篇 · 求职渠道
 draft: false
 toc: true
 ---

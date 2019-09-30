@@ -1,5 +1,5 @@
 ---
-title: 我的澳洲 IT 求职经历 · 准备工作 · 公司选择
+title: 我的澳洲 IT 求职经历 · 准备篇 · 公司选择
 draft: false
 toc: true
 ---

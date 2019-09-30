@@ -1,27 +1,30 @@
-## 面试
+---
+title: 我的澳洲 IT 求职经历 · 面试篇
+draft: false
+toc: false
+---
 
-在之前的 [准备篇 · 招聘流程和周期](TODO:link) 中我们提到，常规的招聘流程如下：
+我们把之前 [准备篇 · 招聘流程](TODO:link) 的内容展开：
 
-1. 电面 (Phone screening interview)
-2. 做题 (Coding exercises / Technical challenges)
-3. 现场面试（Onsite or Remote interview，大厂可能有多轮）  
-  · 技术面试 (Technical interview)  
-  · 行为面试 (Behavioral interview)
-4. Offer
-5. 背调（Reference check，小厂可能没有）
+1. [电面（Phone screening）](TODO:link)
+2. [做题（Coding exercises / Technical challenges）](TODO:link)
+3. 现场面试（Onsite interviews，大厂可能有多轮）  
+  · [技术面试（Technical interview）](TODO:link)  
+  · [行为面试（Behavioral interview）](TODO:link)
+4. [Offer](TODO:link) + 背调（Reference check，小厂可能没有）
 
 其中：
 
-* 部分优质厂由于求职者太多，因此在上述流程前，可能还会有**线上预评估**。
-* 1 和 2 是可以互换的（譬如对方发邮件让你先做题，通过后再电话联系）。
-* 如果是跨城市求职，那么 3 就应该是远程面试 (Remote interview)。
-* 现场面试可以提前到，但不建议过早签到，避免影响别人的安排。  
-  例如，提前 30 min 到了，但最好在接待厅歇 20 min 后才签到。
+* 个别优质厂由于求职者过多，在所有上述流程前还会有 0. [线上预评估](TODO:link)。
+* 1 和 2 是可互换的。譬如对方发邮件让你先做题，通过后再电话联系。
+* 如果是跨城市求职，那么 3 就应该是远程面试（Remote interview）。
+* 3 中技术面与行为面是不定序的，一次过的话通常是先行为后技术。
+* 现场面试可以提前到，但**不建议过早签到**，避免影响别人的安排。  
+  例如，提前 30 min 到了，但最好在接待厅歇 20 min 后才签到。  
+  充分利用这些时间进行「赛前热身」，会比风尘仆仆好得多。
 * 面试前上 Glassdoor 查阅面经，可能会有意想不到的收获。
 
-* 明明通过了，但迟迟不安排下一轮面试，或者迟迟不发 offer，那就是备胎
-
-所有的这些流程，在我看来就像是一个漏斗。  
+所有的这些流程，在我看来就像是一个漏斗图。  
 面对海量的求职者，招聘方的资源显得非常有限。  
-如果不残忍地对求职者进行筛选，最终受累的还是自己人。  
-（这个时候就突显出猎头的优势：可以为招聘方节省资源。）
+如果不残忍地进行筛选，最终受累的还是自己人。  
+此时就突显出猎头的优势：可以为招聘方节省资源。
