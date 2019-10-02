@@ -17,7 +17,7 @@ toc: true
 
 不少人都倾向于参照 JD (Job Description) 写简历。  
 但对于我这种懒人，更倾向于 **Universal resume** 的「Write once, apply anywhere」。  
-尤其是看到 [Jeffrey Li](https://www.linkedin.com/in/jeff1024) 的 [我的墨尔本求职之旅 - 准备篇](https://www.jianshu.com/p/2b797dd42cba) 之后，让我更加坚定地懒下去。
+尤其是看到 Jeffrey Li 的 [我的墨尔本求职之旅 - 准备篇](https://www.jianshu.com/p/2b797dd42cba) 之后，让我更加坚定地懒下去。
 
 > 偷懒是有代价的。客观上，这**确实**会降低你入选的概率（大牛请忽略）。  
 > 另外，**负责筛选简历的未必懂技术**，故参照 JD 写简历绝非一无是处。  
@@ -66,7 +66,7 @@ toc: true
 
 再例如，「Agile」出现的频率也很高，但不知道是啥。  
 搜索了一下才知道原来这就是「敏捷开发」，然而还是一脸懵逼。  
-印象中记得 [@虎头锤](https://www.linkedin.com/in/fiona-man-b7b834a8) 发过朋友圈，还出过相关的作品，是该领域的专家。  
+印象中记得 [@虎头锤](https://youtu.be/aGtkWBtZ-HQ) 发过朋友圈，还出过相关的作品，是该领域的专家。  
 于是赶紧备注 TODO：找锤姐培训敏捷开发以及面试的套路（**别忘了发红包哦**）！
 
 这实际上有点像考前复习 —— 查漏补缺。  

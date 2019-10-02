@@ -10,22 +10,22 @@
 
 以下人士所传授的经验，基本都在本系列文章中体现了，因此本名单也算是引用（References）。我口头上对他们的道谢再多，都不如在行动上用感恩的心浇筑文章。因为也只有这样，才能把这份恩情传递给更多的人。
 
-* [虎头锤](https://www.linkedin.com/in/fiona-man-b7b834a8)  
-  锤姐是[墨尔本 IT 匠人负责人之一](https://zhuanlan.zhihu.com/p/45259889)，她是我求职的起点。在一定程度上，没有她就没有本系列文章。
+* [虎头锤](https://zhuanlan.zhihu.com/p/45259889)  
+  锤姐是我求职的起点，在一定程度上，没有她就没有本系列文章。
 
-* [Jake](https://www.linkedin.com/in/jakelin)  
+* Jake  
   Jake 哥是我的校友，很幸运可以在异国他乡找到师叔。
 
-* [红毛鹦鹉小姐](https://www.linkedin.com/in/jinihuang)  
+* 红毛鹦鹉小姐  
   简历扫雷高级玩家，帮我省了不少命。
 
-* [光](https://www.linkedin.com/in/xu-guang)  
+* 光哥  
   面试套路启蒙老司机。
 
-* [Molly](https://www.linkedin.com/in/jiewenwang)  
+* Molly  
   老同事 + 移友 + 难姐难弟。作为新移民，我们一起求职，也几乎同时收到心仪的 offer。
 
-* [Jing](https://www.linkedin.com/in/jing-zhou-743201160) & [Bonne](https://www.linkedin.com/in/imzhudan)  
+* Jing & Bonne  
   现 Sportsbet 同事
 
 ## 其他参考资料
