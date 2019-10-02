@@ -130,4 +130,4 @@ Pair 属于 Agile 的实践，但实际上很多公司在日常开发中都不�
 
 * 前端面试时，有时可能要用到 Live Server，建议提前装好[插件](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)。
 
-* 准备好面试结束时问面试官的问题，可参考 [反向面试](https://github.com/yifeikong/reverse-interview-zh) 中的问题。
+* 准备好面试结束时问对方的问题，可参考 [反向面试](https://github.com/yifeikong/reverse-interview-zh) 中的列表。
