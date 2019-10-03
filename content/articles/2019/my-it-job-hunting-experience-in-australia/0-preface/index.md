@@ -8,7 +8,7 @@ toc: false
 
 我是 Ken，坐标墨尔本，至今（2019.8）本科毕业三年，一直从事 Web 前端开发工作。在国内有着两年多的大中小厂工作经历，而在澳洲则有着不足一年的本地华人创业公司经验。
 
-> 值得一提的是，我持有的是雇主担保工作签证 [TSS 482 (Medium-term stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream)。为了文章的普适性，有关工签换雇主的注意事项，我单独拆分到了 [TSS 482 换雇主提示](TODO:link)。
+> 值得一提的是，我持有的是雇主担保工作签证 [TSS 482 (Medium-term stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream)。为了文章的普适性，有关工签换雇主的注意事项，我会在之后单独撰文，敬请期待。
 
 ## 为何撰文
 
