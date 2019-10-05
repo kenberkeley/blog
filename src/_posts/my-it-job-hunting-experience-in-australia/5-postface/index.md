@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · 结语
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/postface
 ---
 
 终于，好不容易写到了最后的结语。

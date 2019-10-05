@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · Offer 篇
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/offer
 ---
 
 过五关斩六将，好不容易来到了接 offer 这一步。

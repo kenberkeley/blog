@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · 准备篇 · 薪酬福利
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/preparation/remuneration-package
 ---
 
 ## 待遇概述

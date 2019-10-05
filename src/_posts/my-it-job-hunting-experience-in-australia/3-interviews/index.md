@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · 面试篇
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/interviews
 ---
 
 我们把之前 [准备篇 · 招聘流程](../1-preparation/0-recruitment-process.md) 的内容展开：

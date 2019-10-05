@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · 面试篇 · 做题
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/coding-exercises
 ---
 
 > 严格意义上，「做题」其实不属于「面试」。  

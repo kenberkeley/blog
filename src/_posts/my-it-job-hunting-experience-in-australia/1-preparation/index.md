@@ -2,6 +2,7 @@
 title: 我的澳洲 IT 求职经历 · 准备篇
 tags:
   - 求职
+permalink: /posts/my-it-job-hunting-experience-in-australia/preparation
 ---
 
 正所谓磨刀不误砍柴工，在开始找工作之前，你需要了解更多东西，有备无患。
