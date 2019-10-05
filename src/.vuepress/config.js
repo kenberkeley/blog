@@ -6,8 +6,8 @@ const YOUTUBE_LINK = '<a href="https://www.youtube.com/channel/UCFdirk72XzSXmJ0q
 // https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/.vuepress/config.js
 // https://vuepress-theme-meteorlxy.meteorlxy.cn/posts/2019/02/26/theme-guide-zh.html
 module.exports = ctx => ({
-  title: '土澳码农 · Aussie Coder',
-  description: '土澳码农的博客 · Aussie Coder blog',
+  title: '土澳码农 Aussie Coder',
+  description: '土澳码农的博客 Aussie Coder blog',
   locales: {
     '/': { lang: 'zh-CN' }
   },
