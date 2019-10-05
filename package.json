@@ -11,7 +11,8 @@
   },
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src --dest dist"
+    "build": "vuepress build src --dest dist",
+    "deploy": "./deploy.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.1.0",
