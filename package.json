@@ -2,7 +2,7 @@
   "name": "aussie-coder-blog",
   "private": true,
   "version": "0.1.0",
-  "description": "Aussie Coder's blog powered by VuePress 1.x",
+  "description": "Aussie Coder blog powered by VuePress 1.x",
   "homepage": "https://kenberkeley.github.io",
   "license": "MIT",
   "repository": {
