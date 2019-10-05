@@ -1,5 +1,6 @@
 ---
 title: 我的澳洲 IT 求职经历 · 面试篇 · 电面
+date: 2019-08-30
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/phone-screening

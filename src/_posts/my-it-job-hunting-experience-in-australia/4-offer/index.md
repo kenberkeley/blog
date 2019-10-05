@@ -1,5 +1,6 @@
 ---
 title: 我的澳洲 IT 求职经历 · Offer 篇
+date: 2019-10-01
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/offer
