@@ -189,8 +189,8 @@ Git log 几乎是最快了解候选人职业素养的途径。
 
 在此我也只能厚颜无耻地列举我所做过的题目（求轻喷）：
 
-* https://github.com/kenberkeley/tmdb-react
-* https://github.com/kenberkeley/omdb-vue
+* [https://github.com/kenberkeley/tmdb-react](https://github.com/kenberkeley/tmdb-react)
+* [https://github.com/kenberkeley/omdb-vue](https://github.com/kenberkeley/omdb-vue)
 
 你也可以在 Github 上按 Star 降序搜索，例如「Toy Robot」。
 
