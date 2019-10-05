@@ -5,7 +5,7 @@ date: 2019-08-11
 top: true
 tags:
   - 求职
-permalink: /posts/my-it-job-hunting-experience-in-australia
+permalink: /posts/my-it-job-hunting-experience-in-australia/index.html
 ---
 
 * [前言](./0-preface/index.md)

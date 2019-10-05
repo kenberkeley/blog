@@ -3,7 +3,7 @@ title: 我的澳洲 IT 求职经历 · 面试篇 · 技术面试
 date: 2019-09-26
 tags:
   - 求职
-permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/technical-interview
+permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/technical-interview.html
 ---
 
 在国内，某些大厂的技术面被戏称为「面试造火箭，入职拧螺丝」。  

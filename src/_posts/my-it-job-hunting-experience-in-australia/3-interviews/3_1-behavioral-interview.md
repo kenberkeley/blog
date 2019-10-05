@@ -3,7 +3,7 @@ title: 我的澳洲 IT 求职经历 · 面试篇 · 行为面试
 date: 2019-09-22
 tags:
   - 求职
-permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/behavioral-interview
+permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/behavioral-interview.html
 ---
 
 行为面试的核心就是之前强调过的 Cultural Fit，其乃技术以外的主宰。  

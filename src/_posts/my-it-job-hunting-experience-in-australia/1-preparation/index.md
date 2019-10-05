@@ -3,7 +3,7 @@ title: 我的澳洲 IT 求职经历 · 准备篇
 date: 2019-08-13
 tags:
   - 求职
-permalink: /posts/my-it-job-hunting-experience-in-australia/preparation
+permalink: /posts/my-it-job-hunting-experience-in-australia/preparation/index.html
 ---
 
 正所谓磨刀不误砍柴工，在开始找工作之前，你需要了解更多东西，有备无患。

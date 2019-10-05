@@ -3,7 +3,7 @@ title: 我的澳洲 IT 求职经历 · 简历篇
 date: 2019-08-25
 tags:
   - 求职
-permalink: /posts/my-it-job-hunting-experience-in-australia/resume
+permalink: /posts/my-it-job-hunting-experience-in-australia/resume/index.html
 ---
 
 > 在 [准备篇 · 求职渠道](../1-preparation/4-job-seek-channels.md) 中提到了 LinkedIn 的重要性，因为这本质上就是简历。  
