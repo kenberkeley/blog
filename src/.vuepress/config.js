@@ -32,14 +32,6 @@ module.exports = ctx => ({
         linkedin: {
           account: 'ken--huang',
           link: 'https://linkedin.com/in/ken--huang'
-        },
-        medium: {
-          account: '@kenhuang.au',
-          link: 'https://medium.com/@kenhuang.au'
-        },
-        zhihu: {
-          account: 'kenberkeley',
-          link: 'https://zhihu.com/people/kenberkeley'
         }
       }
     },
@@ -52,7 +44,9 @@ module.exports = ctx => ({
       showTitle: true,
     },
     footer: {
-      custom: '欢迎订阅 <a href="https://youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">我的 YouTube 频道</a>'
+      poweredBy: false,
+      poweredByTheme: false,
+      custom: '欢迎订阅我的 YouTube 频道 <a href="https://youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
     },
     lastUpdated: true,
     comments: {
