@@ -24,6 +24,6 @@ permalink: /posts/my-it-job-hunting-experience-in-australia/preface
 
 > 例如，在国内，我们都知道一线大厂是 BAT，或许还熟知它们各自的评级体系（T2|3|4、P6|7|8 等）。对于薪酬福利待遇等，也早已被脉脉、知乎、微信公众号等灌输得耳濡目染。然而在澳洲，至今我依然还搞不清楚墨尔本究竟有哪些一二线互联网公司（相关内容见 [准备篇 · 公司选择](../1-preparation/3-companies-of-choice.md)）。
 
-本系列文章，是我对过去这段跌宕起伏的求职经历的总结，致力于打造成「如果我一开始就有这些指引就好了」的模样。上面也提到，这属于「抛砖引玉」，且[完全开源](https://github.com/kenberkeley/blog)，你可以为此添砖加瓦（评论、开 [issues](https://github.com/kenberkeley/blog/issues)、提 PR 等），为后人打造出更加完备的澳洲 IT 求职知识库。
+本系列文章，是我对过去这段跌宕起伏的求职经历的总结，致力于打造成「如果我一开始就有这些指引就好了」的模样。上面也提到，这属于「抛砖引玉」，且[完全开源](https://github.com/kenberkeley/blog/tree/master/src/_posts/my-it-job-hunting-experience-in-australia)，你可以为此添砖加瓦（评论、开 [issues](https://github.com/kenberkeley/blog/issues)、提 PR 等），为后人打造出更加完备的澳洲 IT 求职知识库。
 
 > 在整合资源方面，[澳洲匠人学院（IT 匠人圈）](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw/videos)无疑是业内领先，在此衷心致敬。
