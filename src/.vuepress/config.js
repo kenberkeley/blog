@@ -10,12 +10,10 @@ module.exports = ctx => ({
   },
   evergreen: true,
   plugins: [
-    // common plugins
-  ].concat(ctx.isProd ? [
     ['@vuepress/google-analytics', {
       ga: process.env.GOOGLE_ANALYTICS_ID
     }]
-  ] : []),
+  ],
   theme: 'meteorlxy',
   themeConfig: {
     lang: 'zh-CN',
