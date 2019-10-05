@@ -64,6 +64,9 @@ module.exports = ctx => ({
       clientId: process.env.VSSUE_CLIENT_ID,
       clientSecret: process.env.VSSUE_CLIENT_SECRET,
       autoCreateIssue: ctx.isProd
+    },
+    pagination: {
+      perPage: 20
     }
   }
 })

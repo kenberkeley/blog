@@ -1,7 +1,7 @@
 ---
 title: 我的澳洲 IT 求职经历 · 准备篇 · 求职心态
-draft: false
-toc: true
+tags:
+  - 求职
 ---
 
 ## 基本国情

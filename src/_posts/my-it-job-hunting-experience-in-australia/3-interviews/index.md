@@ -1,21 +1,21 @@
 ---
 title: 我的澳洲 IT 求职经历 · 面试篇
-draft: false
-toc: false
+tags:
+  - 求职
 ---
 
-我们把之前 [准备篇 · 招聘流程](TODO:link) 的内容展开：
+我们把之前 [准备篇 · 招聘流程](../1-preparation/0-recruitment-process.md) 的内容展开：
 
-1. [电面（Phone screening）](TODO:link)
-2. [做题（Coding exercises / Technical challenges）](TODO:link)
+1. [电面（Phone screening）](./1-phone-screening.md)
+2. [做题（Coding exercises / Technical challenges）](./2-coding-exercises.md)
 3. 现场面试（Onsite interviews，大厂可能有多轮）  
-  · [行为面试（Behavioral interview）](TODO:link)  
-  · [技术面试（Technical interview）](TODO:link)
-4. [Offer](TODO:link) + 背调（Reference check，小厂可能没有）
+  · [行为面试（Behavioral interview）](./3_1-behavioral-interview.md)  
+  · [技术面试（Technical interview）](./3_2-technical-interview.md)
+4. [Offer](../4-offer/index.md) + 背调（Reference check，小厂可能没有）
 
 其中：
 
-* 个别优质厂由于求职者过多，在所有上述流程前还会有 0. [线上预评估](TODO:link)。
+* 个别优质厂由于求职者过多，在所有上述流程前还会有 0. [线上预评估](./0-online-assessments.md)。
 * 1 和 2 是可互换的。譬如对方发邮件让你先做题，通过后再电话联系。
 * 如果是跨城市求职，那么 3 就应该是远程面试（Remote interview）。
 * 3 中技术面与行为面是不定序的，但一次过通常都是先行为后技术。
