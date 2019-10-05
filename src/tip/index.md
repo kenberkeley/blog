@@ -4,7 +4,7 @@ title: 感谢打赏
 
 ## 你的打赏会让我更有动力产出更多有价值的内容 :pray::pray::pray:
 
-## Paypal
+## PayPal
 
 [https://paypal.me/kenberkeley](https://www.paypal.me/kenberkeley/10)
 
