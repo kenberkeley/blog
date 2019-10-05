@@ -38,5 +38,4 @@ tags:
 * [LY 羊：程序员如何找工作？- YouTube](https://youtu.be/pUZK32GCRHg)
 * [Jeffrey Li：我的墨尔本求职之旅 - 简书](https://www.jianshu.com/p/2b797dd42cba)
 * 匠人学院（[YouTube](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw)，[知乎文章](https://www.zhihu.com/people/jrit-9/posts)）
-* *TODO：请同行们继续补充*
 * *自行 Google 搜索*
