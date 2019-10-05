@@ -59,7 +59,7 @@ module.exports = ctx => ({
       repo: 'blog',
       clientId: process.env.VSSUE_CLIENT_ID,
       clientSecret: process.env.VSSUE_CLIENT_SECRET,
-      autoCreateIssue: ctx.isProd
+      autoCreateIssue: true
     },
     pagination: {
       perPage: 20
