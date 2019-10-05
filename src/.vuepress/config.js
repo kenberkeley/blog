@@ -1,4 +1,7 @@
 require('dotenv').config()
+
+const YOUTUBE_LINK = '<a href="https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
+
 // References:
 // https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/.vuepress/config.js
 // https://vuepress-theme-meteorlxy.meteorlxy.cn/posts/2019/02/26/theme-guide-zh.html
@@ -18,8 +21,8 @@ module.exports = ctx => ({
   themeConfig: {
     lang: 'zh-CN',
     personalInfo: {
-      nickname: '土澳码农',
-      description: 'Aussie Coder',
+      nickname: 'Ken',
+      description: `欢迎订阅我的 YouTube:<br>${YOUTUBE_LINK}`,
       email: 'kenhuang.au@gmail.com',
       location: 'Melbourne, VIC',
       organization: 'Sportsbet',
@@ -38,7 +41,8 @@ module.exports = ctx => ({
     nav: [
       { text: '首页', link: '/', exact: true },
       { text: '文章', link: '/posts/', exact: false },
-      { text: 'YouTube', link: 'https://youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ' }
+      { text: 'YouTube', link: '/youtube/', exact: false },
+      { text: '打赏', link: '/tip/', exact: false }
     ],
     header: {
       showTitle: true,
@@ -46,7 +50,8 @@ module.exports = ctx => ({
     footer: {
       poweredBy: false,
       poweredByTheme: false,
-      custom: '欢迎订阅我的 YouTube 频道 <a href="https://youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
+      custom: `欢迎订阅我的 YouTube 频道 ${YOUTUBE_LINK}<br>` +
+        '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话'
     },
     lastUpdated: true,
     comments: {
