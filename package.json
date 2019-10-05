@@ -1,0 +1,21 @@
+{
+  "name": "aussie-coder-blog",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Aussie Coder's blog powered by VuePress 1.x",
+  "homepage": "https://kenberkeley.github.io",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenberkeley/blog.git"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src --dest dist"
+  },
+  "devDependencies": {
+    "dotenv": "^8.1.0",
+    "vuepress": "^1.1.0",
+    "vuepress-theme-meteorlxy": "^1.5.0"
+  }
+}

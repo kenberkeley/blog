@@ -1,26 +1,26 @@
-#!/bin/sh
-# https://gohugo.io/hosting-and-deployment/hosting-on-github/#put-it-into-a-script
+#!/usr/bin/env sh
+# 参考文档 https://vuepress.vuejs.org/zh/guide/deploy.html#github-pages
 
-# If a command fails then the deploy stops
+# 确保脚本抛出遇到的错误
 set -e
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
+# 生成静态文件
+npm run build
 
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+# 进入生成的文件夹
+cd dist
 
-# Go To Public folder
-cd public
+# 如果是发布到自定义域名
+# echo 'www.example.com' > CNAME
 
-# Add changes to git.
-git add .
+git init
+git add -A
+git commit -m 'deploy'
 
-# Commit changes.
-msg="rebuilding site $(date)"
-if [ -n "$*" ]; then
-	msg="$*"
-fi
-git commit -m "$msg"
+# 如果发布到 https://<USERNAME>.github.io
+git push -f git@github.com:kenberkeley/kenberkeley.github.io.git master
 
-# Push source and build repos.
-git push origin master
+# 如果发布到 https://<USERNAME>.github.io/<REPO>
+# git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
+
+cd -
