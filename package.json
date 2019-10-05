@@ -14,6 +14,7 @@
     "build": "vuepress build src --dest dist"
   },
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.1.0",
     "dotenv": "^8.1.0",
     "vuepress": "^1.1.0",
     "vuepress-theme-meteorlxy": "^1.5.0"
