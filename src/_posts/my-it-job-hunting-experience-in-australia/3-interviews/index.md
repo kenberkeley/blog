@@ -4,6 +4,7 @@ date: 2019-08-27
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews
+vssue-id: 10
 ---
 
 我们把之前 [准备篇 · 招聘流程](../1-preparation/0-recruitment-process.md) 的内容展开：
