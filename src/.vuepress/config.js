@@ -18,6 +18,10 @@ module.exports = ctx => ({
   plugins: [
     ['@vuepress/google-analytics', {
       ga: process.env.GOOGLE_ANALYTICS_ID
+    }],
+    ['vuepress-plugin-clean-urls', {
+      normalSuffix: '/',
+      indexSuffix: '/'
     }]
   ],
   theme: 'meteorlxy',
