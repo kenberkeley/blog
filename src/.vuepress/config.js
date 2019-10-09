@@ -19,6 +19,9 @@ module.exports = ctx => ({
     ['vuepress-plugin-clean-urls', {
       normalSuffix: '/',
       indexSuffix: '/'
+    }],
+    ['vuepress-plugin-sitemap', {
+      hostname: 'https://kenberkeley.github.io'
     }]
   ],
   markdown: {
