@@ -12,6 +12,7 @@ module.exports = ctx => ({
   },
   evergreen: true,
   plugins: [
+    'vuepress-plugin-check-md',
     ['@vuepress/google-analytics', {
       ga: process.env.GOOGLE_ANALYTICS_ID
     }],
