@@ -1,5 +1,5 @@
 require('dotenv').config()
-
+const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 const YOUTUBE_LINK = '<a href="https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
 
 // References:
@@ -10,10 +10,6 @@ module.exports = ctx => ({
   locales: {
     '/': { lang: 'zh-CN' }
   },
-  lang: Object.assign(require('vuepress-theme-meteorlxy/lib/langs/zh-CN'), {
-    // TODO：https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues/62
-    notFound: '哎呀！你要找的页面不在这里（刷新一下或许能行。。。）'
-  }),
   evergreen: true,
   plugins: [
     ['@vuepress/google-analytics', {
@@ -24,6 +20,23 @@ module.exports = ctx => ({
       indexSuffix: '/'
     }]
   ],
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require('markdown-it-replace-link'))
+    },
+    // TODO：https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues/62
+    replaceLink (link, env) {
+      // env could be {} or { loader: {}, frontmatter: {...}, relativePath: '...' }
+      const curFilePath = env.relativePath
+      if (
+        curFilePath && curFilePath.startsWith('_posts/') && // in _posts/
+        link.startsWith('.') && link.endsWith('.md') // relative path
+      ) {
+        return extractPermalinkFromPost(curFilePath, link)
+      }
+      return link
+    }
+  },
   theme: 'meteorlxy',
   themeConfig: {
     lang: 'zh-CN',
