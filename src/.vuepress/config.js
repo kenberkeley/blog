@@ -71,7 +71,8 @@ module.exports = ctx => ({
       poweredBy: false,
       poweredByTheme: false,
       custom: `欢迎订阅我的 YouTube 频道 ${YOUTUBE_LINK}<br>` +
-        '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话'
+        '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话<br>' +
+        '欢迎转载，所有文章均为原创，转载请注明出处'
     },
     lastUpdated: true,
     comments: {
