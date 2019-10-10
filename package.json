@@ -19,6 +19,7 @@
     "dotenv": "^8.1.0",
     "markdown-it-replace-link": "^1.0.1",
     "vuepress": "^1.1.0",
+    "vuepress-plugin-canonical": "^1.0.0",
     "vuepress-plugin-check-md": "0.0.2",
     "vuepress-plugin-clean-urls": "^1.0.3",
     "vuepress-plugin-sitemap": "^2.1.2",

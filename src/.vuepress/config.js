@@ -1,5 +1,7 @@
 require('dotenv').config()
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
+
+const HOSTNAME = 'https://kenberkeley.github.io'
 const YOUTUBE_LINK = '<a href="https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
 
 // References:
@@ -21,7 +23,11 @@ module.exports = ctx => ({
       indexSuffix: '/'
     }],
     ['vuepress-plugin-sitemap', {
-      hostname: 'https://kenberkeley.github.io'
+      hostname: HOSTNAME
+    }],
+    ['vuepress-plugin-canonical', {
+      baseURL: HOSTNAME,
+      stripExtension: true
     }]
   ],
   markdown: {
