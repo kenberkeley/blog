@@ -28,6 +28,9 @@ module.exports = ctx => ({
     ['vuepress-plugin-canonical', {
       baseURL: HOSTNAME,
       stripExtension: true
+    }],
+    ['vuepress-plugin-robots', {
+      host: HOSTNAME
     }]
   ],
   markdown: {
