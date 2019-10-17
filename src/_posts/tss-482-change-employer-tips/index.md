@@ -25,7 +25,7 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 * 如果候选人因为某些原因被拒签，则之前所做的所有铺垫都是白费的
 * 有身份的求职者太多了，尤其是大厂，更不倾向于折腾，因为没必要
 
-总的来说，**从头开始做雇主担保是很困难的**。即便是花钱买雇主，一个 offer 要价 10w+ RMB 也是很普遍的，且之后往往都是自己给自己发工资。
+总的来说，**从头开始做雇主担保是很困难的，难能可贵**。即便是花钱买雇主，一个 offer 要价 10w+ RMB 也是很普遍的，且之后往往都是自己给自己发工资。
 
 ## 自审
 
@@ -33,7 +33,7 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 * 换雇主后，工作年限会重置  
   转 186 TRT 的前提是：**在同一雇主下工作满三年**。这可能也是出于对雇主的保障，毕竟雇主为担保付出了很多，倘若雇员可以无条件无代价地轻易离职，也未免太不公平了。  
-  TSS 482 Medium-term stream 的签证有效期是 4 年，倘若已经消耗了 1 年，则剩余的时间也是仅够而已，或许 3 年后还得再申请一次 482 或过桥签。
+  TSS 482 Medium-term stream 的签证有效期是 4 年，倘若已经消耗了 1 年，则剩余的时间也是仅够而已，或许签证到期后还得再申请一次 482 或过桥签。
 
   对于可以直接走 [186 DE (Direct Entry stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/direct-entry-stream) 的同学，能找到直接担保 186 DE 的雇主不仅非常困难，且签证审核周期极其漫长（可参考移民局官网的 [Global visa processing times](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-processing-times/global-visa-processing-times)），因此通常也都是先 482 进来工作后再开始处理 186 DE。
 
@@ -48,12 +48,12 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 ## 优势
 
-实际上这个「优势」仅是针对：
+实际上 TSS 482 签证持有者的「优势」仅针对：
 
-* 离岸求职者
-* 在岸 462 WHV 签证持有者
+* 离岸求职者（所以说肉翻的第一步是最困难的，TODO：介绍肉翻的途径）
+* 在岸的 462 WHV 签证持有者
 
-毕竟只要涉及到麻烦雇主担保的，都不具备优势。在某种程度上，TSS 482 持有者还不如 485 毕业生。
+毕竟只要涉及到麻烦雇主担保的，都不具备优势。在某种程度上，TSS 482 持有者还不如 485 毕业生签证，毕竟人家直接就能上班，没有太多繁琐的手续。
 
 优势：
 
@@ -62,19 +62,23 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 ## 对策
 
-以下内容是 [我的澳洲 IT 求职经历 · 系列文章目录](../my-it-job-hunting-experience-in-australia/index.md) 的拓展：
+我在写 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 系列文章时由于考虑到普适性，因此只有少部分会提到签证问题。然而，实际上其内容就是我作为 TSS 482 签证持有者的所有经验。因此，以下内容也是基于该系列文章的顺序展开。
 
-* [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)
+* [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)  
+  我总是提「感恩」，的确是因为在异国他乡，能找到干货、得到别人的有效经验实在太不容易了。例如，我当初看到 Junv 总结的 [如何到澳洲工作](https://github.com/wahyd4/work-in-australia#%E5%87%86%E5%A4%87%E7%AD%BE%E8%AF%81) 时，我真的是感动到不行。最近 Junv 也成功通过 TSS 482 这个跳板成功转了 186 DE，在此衷心祝贺。有心人无论如何都会得到上天的眷顾，我仅是步他们的后尘，继续接力。
 * [准备篇](../my-it-job-hunting-experience-in-australia/1-preparation/index.md)
-  * [招聘流程](../my-it-job-hunting-experience-in-australia/1-preparation/0-recruitment-process.md)
-  * [求职心态](../my-it-job-hunting-experience-in-australia/1-preparation/1-mentality.md)
+  * [招聘流程](../my-it-job-hunting-experience-in-australia/1-preparation/0-recruitment-process.md)  
+  有时候这得靠运气，或许两周内就可以找到，但普遍都是一个月。
+  * [求职心态](../my-it-job-hunting-experience-in-australia/1-preparation/1-mentality.md)  
+    
   * [薪酬福利](../my-it-job-hunting-experience-in-australia/1-preparation/2-remuneration-package.md)
   * [公司选择](../my-it-job-hunting-experience-in-australia/1-preparation/3-companies-of-choice.md)
   * [求职渠道](../my-it-job-hunting-experience-in-australia/1-preparation/4-job-seek-channels.md)
 * [简历篇](../my-it-job-hunting-experience-in-australia/2-resume/index.md)
 * [面试篇](../my-it-job-hunting-experience-in-australia/3-interviews/index.md)
   * [线上预评估](../my-it-job-hunting-experience-in-australia/3-interviews/0-online-assessments.md)
-  * [电面](../my-it-job-hunting-experience-in-australia/3-interviews/1-phone-screening.md)
+  * [电面](../my-it-job-hunting-experience-in-australia/3-interviews/1-phone-screening.md)  
+   猎头没用
   * [做题](../my-it-job-hunting-experience-in-australia/3-interviews/2-coding-exercises.md)
   * [行为面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_1-behavioral-interview.md)
   * [技术面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_2-technical-interview.md)
@@ -106,3 +110,7 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
   我本科不是计算机，工作年份也达不到 ACS 评估，因此没有机会直接 186 DE，只能三年后 186 TRT
 
 * 注明自己已经有签证了！！！
+
+## 结语
+
+感谢我的前雇主 Scott，感谢同是 TSS 482 签证持有者的台湾朋友 Kay。
