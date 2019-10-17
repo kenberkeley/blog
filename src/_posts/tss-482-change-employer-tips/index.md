@@ -8,11 +8,11 @@ tags:
 permalink: /posts/tss-482-change-employer-tips
 ---
 
-> 本文是 [我的 IT 求职经历](https://kenberkeley.github.io/posts/my-it-job-hunting-experience-in-australia/) 番外篇，主要面向可以转 [186 TRT (Temporary Residence Transition stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream) PR 的 [TSS 482 Medium-term stream](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) 持有者。
-
 ## 前言
 
-不管如何，但一定要切记：必须与现雇主保持良好的关系，之后无论是背调
+本文是 [我的 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 番外篇，主要面向可以转 [186 TRT (Temporary Residence Transition stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream) PR 的 [TSS 482 Medium-term stream](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) 持有者（基于真实意愿，并非买卖雇主）。
+
+当你点进这篇文章的时候，你可能只是有初步的念头，又或是早就下定了决心。但不管如何，**请一定要和现任雇主保持良好的关系**。现任雇主为担保你可是花了不少的时间、精力、金钱，因此无论如何，都应该**常怀感恩的心**。
 
 ## 现状
 
@@ -26,8 +26,6 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 * 有身份的求职者太多了，尤其是大厂，更不倾向于折腾，因为没必要
 
 总的来说，**从头开始做雇主担保是很困难的**。即便是花钱买雇主，一个 offer 要价 10w+ RMB 也是很普遍的，且之后往往都是自己给自己发工资。
-
-然而，我们的优势是：不需要从头开始，只需要新雇主愿意接纳你，帮你转签即可。
 
 ## 自审
 
@@ -44,11 +42,44 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 * 60 天内必须找到新雇主，否则签证自动取消  
   当然了，这个「60 天」是指从现任雇主**正式离职**开始计算。在此之前，你利用年假带薪面试等都不算。从法律上讲，实际上是你的现任雇主**主动通知**移民局你的离职开始计算，毕竟移民局是很难实时监控签证持有人是否就职的。
 
-  60 天再加上你可能还有年假，貌似肯定够时间续上签证，但实际上是**未必**的，不妨参考 [我的 IT 求职经历 · 准备篇 · 求职心态](https://kenberkeley.github.io/posts/my-it-job-hunting-experience-in-australia/preparation/mentality/)。
+  60 天再加上你可能还有年假，貌似肯定够时间续上签证，但实际上是**未必**的，不妨参考 [我的 IT 求职经历 · 准备篇 · 求职心态](../my-it-job-hunting-experience-in-australia/1-preparation/1-mentality.md)。
 
   反正无论如何，**这段时间内你必须走到 re-nomination 的手续（切记：不是拿 offer 就算！）**。这通常是你的新雇主找移民中介处理（费时费力），你负责敦促尽快开始转签手续就好了，避免陷入要申请过桥签的麻烦（或许还不得不找中介跟移民局 argue）。
 
-提供担保的岗位，应聘者都很多的，尤其是接受海外投递的，你的优势可能就是在岸。
+## 优势
+
+实际上这个「优势」仅是针对：
+
+* 离岸求职者
+* 在岸 462 WHV 签证持有者
+
+毕竟只要涉及到麻烦雇主担保的，都不具备优势。在某种程度上，TSS 482 持有者还不如 485 毕业生。
+
+优势：
+
+* 无需从头开始，只需要新雇主愿意接纳你，帮你转签即可。不过前提不仅要新雇主愿意，并且还要有担保资格。有的公司很愿意招聘你，但仍没担保资质，那么雇主得先折腾到资质后才能担保你，过程非常漫长且没有保证，毕竟担保资质不是随便一家公司就可以拿的，要求可不低（公司流水数额、PR / Citizen 雇员比例等）。
+* 在岸优势。由于我们已经在岸，因此可能会身在福中不知福。**愿意提供雇主担保的公司，只要发了公开招聘的，其简历投递箱通常都是爆满的，尤其是海外申请人，更是陆续不断地灌入**。离岸找雇主的难度**远超**在岸找，毕竟不确定性太大了，雇主们也都会避险。
+
+## 对策
+
+以下内容是 [我的澳洲 IT 求职经历 · 系列文章目录](../my-it-job-hunting-experience-in-australia/index.md) 的拓展：
+
+* [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)
+* [准备篇](../my-it-job-hunting-experience-in-australia/1-preparation/index.md)
+  * [招聘流程](../my-it-job-hunting-experience-in-australia/1-preparation/0-recruitment-process.md)
+  * [求职心态](../my-it-job-hunting-experience-in-australia/1-preparation/1-mentality.md)
+  * [薪酬福利](../my-it-job-hunting-experience-in-australia/1-preparation/2-remuneration-package.md)
+  * [公司选择](../my-it-job-hunting-experience-in-australia/1-preparation/3-companies-of-choice.md)
+  * [求职渠道](../my-it-job-hunting-experience-in-australia/1-preparation/4-job-seek-channels.md)
+* [简历篇](../my-it-job-hunting-experience-in-australia/2-resume/index.md)
+* [面试篇](../my-it-job-hunting-experience-in-australia/3-interviews/index.md)
+  * [线上预评估](../my-it-job-hunting-experience-in-australia/3-interviews/0-online-assessments.md)
+  * [电面](../my-it-job-hunting-experience-in-australia/3-interviews/1-phone-screening.md)
+  * [做题](../my-it-job-hunting-experience-in-australia/3-interviews/2-coding-exercises.md)
+  * [行为面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_1-behavioral-interview.md)
+  * [技术面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_2-technical-interview.md)
+* [Offer 篇](../my-it-job-hunting-experience-in-australia/4-offer/index.md)
+* [结语](../my-it-job-hunting-experience-in-australia/5-postface/index.md)
 
 · 了解行情
   要价低一点，更有竞争力！
