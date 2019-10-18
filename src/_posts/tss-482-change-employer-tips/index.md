@@ -62,54 +62,46 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 ## 对策
 
-我在写 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 系列文章时由于考虑到普适性，因此只有少部分会提到签证问题。然而，实际上其内容就是我作为 TSS 482 签证持有者的所有经验。因此，以下内容也是基于该系列文章的顺序展开。
+我在写 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 系列文章时由于考虑到普适性，较少会提到签证问题。但实际上其内容就是我作为 TSS 482 签证持有者的所有经验，以下内容就是「遗失」的那一部分，我会按照原系列文章结构进行展开。
 
 * [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)  
-  我总是提「感恩」，的确是因为在异国他乡，能找到干货、得到别人的有效经验实在太不容易了。例如，我当初看到 Junv 总结的 [如何到澳洲工作](https://github.com/wahyd4/work-in-australia#%E5%87%86%E5%A4%87%E7%AD%BE%E8%AF%81) 时，我真的是感动到不行。最近 Junv 也成功通过 TSS 482 这个跳板成功转了 186 DE，在此衷心祝贺。有心人无论如何都会得到上天的眷顾，我仅是步他们的后尘，继续接力。
+  我总是提「感恩」，的确是因为在异国他乡，能找到干货、得到别人的有效经验实在太不容易了。我当初看到 Junv 总结的 [如何到澳洲工作](https://github.com/wahyd4/work-in-australia) 以及 Jeffrey Li 的 [我的墨尔本求职之旅](https://www.jianshu.com/p/2b797dd42cba) 时，我真的是感动到不行。我仅是步他们的后尘，继续接力，为后人做更多的铺垫。
 * [准备篇](../my-it-job-hunting-experience-in-australia/1-preparation/index.md)
   * [招聘流程](../my-it-job-hunting-experience-in-australia/1-preparation/0-recruitment-process.md)  
   有时候这得靠运气，或许两周内就可以找到，但普遍都是一个月。
   * [求职心态](../my-it-job-hunting-experience-in-australia/1-preparation/1-mentality.md)  
-    
-  * [薪酬福利](../my-it-job-hunting-experience-in-australia/1-preparation/2-remuneration-package.md)
-  * [公司选择](../my-it-job-hunting-experience-in-australia/1-preparation/3-companies-of-choice.md)
-  * [求职渠道](../my-it-job-hunting-experience-in-australia/1-preparation/4-job-seek-channels.md)
-* [简历篇](../my-it-job-hunting-experience-in-australia/2-resume/index.md)
+  原文已经写得很够了。
+  * [薪酬福利](../my-it-job-hunting-experience-in-australia/1-preparation/2-remuneration-package.md)  
+  即便只是转签，对大多数雇主而言都是很麻烦的。而愿意提供担保的雇主，通常也是算过账的。这就意味着雇主的预算会相对保守，因此我们的预期也应该相应保守。  
+  我们的目标很简单：无论如何，先拿一个保底再说。「签证过期被驱逐出镜」以及「工资低点但成功续签」的选择题是送分题，当然你其实还有第三个选项：拿到 offer 后跟现任雇主提涨薪，期待现任雇主能开 counter offer，这样子工作年限也不用重置了。然而，离职的原因未必只有薪酬问题。  
+  反正人家要 100k，我就要 90k，宁愿拿到 offer 后再 argue 到 95k，都不愿意错失机会。时刻展现出自己「物美价廉，性价比高」！给雇主一个理由不请完全不折腾的 PR / Citizen。
+  * [公司选择](../my-it-job-hunting-experience-in-australia/1-preparation/3-companies-of-choice.md)  
+  有的公司很愿意担保，只是开的 package 往往都不会满足求职者的预期。有的公司很不愿意担保，因为 package 很够，优秀的 PR / Citizen 都挤破头，因此就没必要折腾雇主担保了。  
+  但一般情况下，我都倾向于大厂。因为大厂一般都已经有了担保的资质（只是愿不愿意而已），而某些创业公司连资质都还没有，或许两个月过去了都批不下来，因此不确定性太大，太冒险了。而且很多大厂实际上都是 Accredited Sponsor，因此审核效率比 Standard Sponsor 会快很多，毕竟移民局不担心这是「买卖雇主」的勾当。  
+  例如，Sportsbet 提交转签申请后，一周内就批准了，比常规的 2 ~ 4 周处理时间快得多。当然了，这可能只是我的个例，或者当时的队列不长。  
+  还有就是政府、国企，只要没注明是要求 PR / Citizen 的，都请放心投，因为这类机构通常不会因为签证问题而压价。
+  * [求职渠道](../my-it-job-hunting-experience-in-australia/1-preparation/4-job-seek-channels.md)  
+  一言以蔽之：看 LinkedIn 后找内推！  
+  有关雇主担保，猎头并不是特别靠谱（因为这是中介才干的事情），猎头要的是 fast & easy money。  
+  SEEK 基本都是猎头，看到类似的岗位也应该转到 LinkedIn 上投，而不是经猎头手。
+* [简历篇](../my-it-job-hunting-experience-in-australia/2-resume/index.md)  
+  原文写得已经足够详细了。
 * [面试篇](../my-it-job-hunting-experience-in-australia/3-interviews/index.md)
-  * [线上预评估](../my-it-job-hunting-experience-in-australia/3-interviews/0-online-assessments.md)
+  * [线上预评估](../my-it-job-hunting-experience-in-australia/3-interviews/0-online-assessments.md)  
+  这个跟签证状态关系不大。
   * [电面](../my-it-job-hunting-experience-in-australia/3-interviews/1-phone-screening.md)  
-   猎头没用
-  * [做题](../my-it-job-hunting-experience-in-australia/3-interviews/2-coding-exercises.md)
-  * [行为面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_1-behavioral-interview.md)
+  首先要强调：大多数 HR 都不熟悉签证系统（如果很熟悉的，那就是压价很厉害，或者最近担保过的，通常是 both）。因此我们**必须强调我们已经给有签证了！只需要处理转签 nomination！这是本质的差别！！！**如果问及转签需要多长，你就说平均都是两周即可。  
+  最后还是要强调，猎头对我们这类需要雇主担保的求职者来说作用并不是很大，因为人家不想麻烦（当然不排除有例外的好人猎头）。**当然猎头也不是一无是处，可以问他们多少合适，打探行情。**  
+  为什么要那么关注签证问题？很简单：招聘花几个月，培训上手花几个月，如果因为签证问题而不得不离职，雇主的成本太高了。
+  * [做题](../my-it-job-hunting-experience-in-australia/3-interviews/2-coding-exercises.md)  
+  这个跟签证关系不大。
+  * [行为面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_1-behavioral-interview.md)  
+  同样，跟签证关系不大。
   * [技术面试](../my-it-job-hunting-experience-in-australia/3-interviews/3_2-technical-interview.md)
-* [Offer 篇](../my-it-job-hunting-experience-in-australia/4-offer/index.md)
+  同样，跟签证关系不大。
+* [Offer 篇](../my-it-job-hunting-experience-in-australia/4-offer/index.md)  
+  接 offer 的时候，稍微问一下有关 3 年后 186 TRT 的担保。只要能担保 TSS 482 的，都可以担保 186 TRT。
 * [结语](../my-it-job-hunting-experience-in-australia/5-postface/index.md)
-
-· 了解行情
-  要价低一点，更有竞争力！
-  而且无论如何，小型雇主都会压你的，还不如自己主动降，有诚意？
-  否则没有 PR 还要担保，谁要你？竞争力很重要，除了能力。都能搬砖，没啥所谓的。只要你的替代性足够强，基本都。。。
-  还有就是政府单位，不差钱，可以考虑。而且技术绝对没有你想象中辣鸡。
-
-  当然猎头也不是一无是处，可以问他们多少合适。
-
-· 准备简历
-    不要写签证状态。因为你要的是更多的机会锻炼自己。
-
-· 投递简历
-    Seek 上面投基本没戏，因为猎头都想赚快钱。
-    因此首选 LinkedIn 和内推。
-
-· 电面
-  前面锻炼完听力和口语，
-  无论如何，最后一定别忘了问有关雇主担保的问题
-  一定要好好跟 HR 说明你已经有签证了，只需要 nomination，一般都是两周（HR 一般不懂签证问题）。
-
-· 接 offer
-  可以打探是否有机会 186 PR。
-  我本科不是计算机，工作年份也达不到 ACS 评估，因此没有机会直接 186 DE，只能三年后 186 TRT
-
-* 注明自己已经有签证了！！！
 
 ## 结语
 
