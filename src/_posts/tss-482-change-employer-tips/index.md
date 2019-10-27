@@ -1,7 +1,6 @@
 ---
 title: TSS 482 换雇主提示
-date: 2019-10-08
-draft: true
+date: 2019-10-27
 tags:
   - 签证
   - 求职
@@ -10,9 +9,9 @@ permalink: /posts/tss-482-change-employer-tips
 
 ## 前言
 
-本文是 [我的 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 番外篇，主要面向可以转 [186 TRT (Temporary Residence Transition stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream) PR 的 [TSS 482 Medium-term stream](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) 持有者（基于真实意愿，并非买卖雇主）。
+本文是 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 番外篇，主要面向可以转 [186 TRT (Temporary Residence Transition stream)](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/employer-nomination-scheme-186/temporary-residence-transition-stream) PR 的 [TSS 482 Medium-term stream](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream) 持有者。
 
-当你点进这篇文章的时候，你可能只是有初步的念头，又或是早就下定了决心。但不管如何，**请一定要和现任雇主保持良好的关系**。现任雇主为担保你可是花了不少的时间、精力、金钱，因此无论如何，都应该**常怀感恩的心**。
+当你点进这篇文章时，你或许只是有初步的念头，又或是早就下定了决心。但不管如何，**请一定要和现任雇主保持良好的关系**。毕竟人家为了担保你，可是花了不少的时间+精力+金钱，因此无论如何都应该**常怀感恩的心**。
 
 ## 现状
 
