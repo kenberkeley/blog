@@ -71,7 +71,7 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
   原文已经写得很够了。
   * [薪酬福利](../my-it-job-hunting-experience-in-australia/1-preparation/2-remuneration-package.md)  
   即便只是转签，对大多数雇主而言都是相当麻烦的。而愿意提供担保的雇主，通常也是**算过账的**。这就意味着雇主的预算会相对保守（羊毛出在羊身上，你懂的），因此我们的预期也应该相应保守。  
-  其实我们的目标很简单：无论如何都必须先拿一个 offer 保底，「签证过期被驱逐出镜 or 工资低点但成功续签」显然是不需考虑的送分题。或许你还有第三个选项：拿到 offer 后跟现任雇主提涨薪，期待现任雇主能开 counter offer，由此工作年限也不用被重置了（只是离职的原因未必只有薪酬问题）。  
+  其实我们的目标很简单：无论如何都必须先拿一个 offer 保底，「签证过期被驱逐出境 or 工资低点但成功续签」显然是不需考虑的送分题。或许你还有第三个选项：拿到 offer 后跟现任雇主提涨薪，期待现任雇主能开 counter offer，由此工作年限也不用被重置了（只是离职的原因未必只有薪酬问题）。  
   反正人家要 100k，我就要 90k，宁愿接到 offer 后再 argue 到 95k 也不愿意因小失大。**时刻展现出自己「物美价廉，性价比高」，给雇主一个理由不请 PR / Citizen**。
   * [公司选择](../my-it-job-hunting-experience-in-australia/1-preparation/3-companies-of-choice.md)  
   有的公司很愿意担保，只是 package 或诚意不足，不能满足求职者的预期；有的公司很不愿意担保，因为 package 很够，优秀的 PR / Citizen 都挤破头，因此就更没必要折腾雇主担保了。  
