@@ -5,6 +5,7 @@ tags:
   - 签证
   - 求职
 permalink: /posts/tss-482-change-employer-tips
+vssue-id: 33
 ---
 
 ## 前言
