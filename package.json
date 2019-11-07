@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.1.0",
-    "dotenv": "^8.1.0",
+    "dotenv-safe": "^8.1.0",
     "markdown-it-replace-link": "^1.0.1",
     "vuepress": "^1.1.0",
     "vuepress-plugin-canonical": "^1.0.0",

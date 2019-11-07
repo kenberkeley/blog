@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv-safe').config()
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 
 const HOSTNAME = 'https://kenberkeley.github.io'

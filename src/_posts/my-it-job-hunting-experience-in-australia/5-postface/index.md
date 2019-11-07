@@ -22,9 +22,6 @@ permalink: /posts/my-it-job-hunting-experience-in-australia/postface
 * Jake  
   Jake 哥是我的校友，很幸运可以在异国他乡找到师叔。
 
-* 红毛鹦鹉小姐  
-  简历扫雷高级玩家，帮我省了不少命。
-
 * 光哥  
   面试套路启蒙老司机。
 
