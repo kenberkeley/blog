@@ -1,8 +1,10 @@
 require('dotenv-safe').config()
+const safeExternalLinkGen = require('./_utils/safeExternalLinkGen')
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 
 const HOSTNAME = 'https://kenberkeley.github.io'
-const YOUTUBE_LINK = '<a href="https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ" target="_blank">Aussie Coder 土澳码农</a>'
+const SUBSCRIBE_LINK = 'https://mailchi.mp/a019f810e55d/aussiecoder'
+const YOUTUBE_LINK = safeExternalLinkGen('https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ', 'Aussie Coder 土澳码农')
 
 // References:
 // https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/.vuepress/config.js
@@ -73,9 +75,10 @@ module.exports = ctx => ({
     },
     nav: [
       { text: '首页', link: '/', exact: true },
-      { text: '文章', link: '/posts/', exact: false },
-      { text: 'YouTube', link: '/youtube/', exact: false },
-      { text: '打赏', link: '/tip/', exact: false }
+      { text: '文章', link: '/posts/' },
+      { text: 'YouTube', link: '/youtube/' },
+      { text: '打赏', link: '/tip/' },
+      { text: 'RSS', link: SUBSCRIBE_LINK }
     ],
     header: {
       showTitle: true,
@@ -85,7 +88,7 @@ module.exports = ctx => ({
       poweredByTheme: false,
       custom: `欢迎订阅我的 YouTube 频道 ${YOUTUBE_LINK}<br>` +
         '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话<br>' +
-        '欢迎转载，所有文章均为原创，转载请注明出处'
+        `欢迎${safeExternalLinkGen(SUBSCRIBE_LINK, '邮件订阅')}，所有文章均为原创，转载请注明出处`
     },
     lastUpdated: true,
     comments: {
