@@ -3,8 +3,9 @@ const safeExternalLinkGen = require('./_utils/safeExternalLinkGen')
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 
 const HOSTNAME = 'https://kenberkeley.github.io'
-const SUBSCRIBE_LINK = 'https://mailchi.mp/a019f810e55d/aussiecoder'
-const YOUTUBE_LINK = safeExternalLinkGen('https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ', 'Aussie Coder 土澳码农')
+const ISSUES = { text: '留言板', link: 'https://github.com/kenberkeley/blog/issues' }
+const SUBSCRIBE = { text: '邮件订阅', link: 'https://mailchi.mp/a019f810e55d/aussiecoder' }
+const YOUTUBE = { text: 'Aussie Coder 土澳码农', link: 'https://www.youtube.com/channel/UCFdirk72XzSXmJ0qTgoTHFQ' }
 
 // References:
 // https://github.com/vuejs/vuepress/blob/master/packages/docs/docs/.vuepress/config.js
@@ -57,7 +58,7 @@ module.exports = ctx => ({
     lang: 'zh-CN',
     personalInfo: {
       nickname: 'Ken',
-      description: `欢迎订阅我的 YouTube:<br>${YOUTUBE_LINK}`,
+      description: `YouTube:<br>${safeExternalLinkGen(YOUTUBE)}`,
       email: 'kenhuang.au@gmail.com',
       location: 'Melbourne, VIC',
       organization: 'Sportsbet',
@@ -78,7 +79,8 @@ module.exports = ctx => ({
       { text: '文章', link: '/posts/' },
       { text: 'YouTube', link: '/youtube/' },
       { text: '打赏', link: '/tip/' },
-      { text: 'RSS', link: SUBSCRIBE_LINK }
+      ISSUES,
+      SUBSCRIBE
     ],
     header: {
       showTitle: true,
@@ -87,8 +89,9 @@ module.exports = ctx => ({
       poweredBy: false,
       poweredByTheme: false,
       custom: '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话<br>' +
-        `欢迎订阅我的 YouTube 频道 ${YOUTUBE_LINK}<br>` +
-        `欢迎${safeExternalLinkGen(SUBSCRIBE_LINK, '邮件订阅')}，所有文章均为原创，转载请注明出处`
+        `欢迎订阅我的 YouTube 频道 ${safeExternalLinkGen(YOUTUBE)}<br>` +
+        `欢迎${safeExternalLinkGen(SUBSCRIBE)}，所有文章均为原创，转载请注明出处<br>` +
+        `若有建议、意见或者其他疑问等，欢迎到${safeExternalLinkGen(ISSUES)}交流`
     },
     lastUpdated: true,
     comments: {
