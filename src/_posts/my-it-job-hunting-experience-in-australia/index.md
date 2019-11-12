@@ -3,6 +3,7 @@ title: 我的澳洲 IT 求职经历 · 系列文章目录
 description: 讲述我作为 Web 前端开发工程师，在澳洲墨尔本找工作的经历。
 date: 2019-08-11
 top: true
+category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia

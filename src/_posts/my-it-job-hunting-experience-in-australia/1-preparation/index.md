@@ -1,6 +1,7 @@
 ---
 title: 我的澳洲 IT 求职经历 · 准备篇
 date: 2019-08-13
+category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/preparation
