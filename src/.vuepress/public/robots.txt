@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /tip/
+Sitemap: https://kenberkeley.github.io/sitemap.xml

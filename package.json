@@ -22,7 +22,6 @@
     "vuepress-plugin-canonical": "^1.0.0",
     "vuepress-plugin-check-md": "0.0.2",
     "vuepress-plugin-clean-urls": "^1.0.3",
-    "vuepress-plugin-robots": "^1.0.1",
     "vuepress-plugin-sitemap": "^2.1.2",
     "vuepress-theme-meteorlxy": "^1.5.0"
   }
