@@ -29,7 +29,7 @@ permalink: /posts/my-it-job-hunting-experience-in-australia/postface
 * Molly  
   老同事 + 移友 + 求职难姐难弟。
 
-* Jing & Bonne  
+* Jing & Dan  
   帮我内推 Sportsbet 的现同事。
 
 ## 其他参考资料
