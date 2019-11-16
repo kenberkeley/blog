@@ -63,7 +63,7 @@ module.exports = ctx => ({
       sns: {
         github: {
           account: 'kenberkeley',
-          link: 'https://github.com/kenberkeley'
+          link: 'https://github.com/kenberkeley/blog'
         },
         linkedin: {
           account: 'ken--huang',
