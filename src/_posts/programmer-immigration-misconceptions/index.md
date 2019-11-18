@@ -42,7 +42,7 @@ permalink: /posts/programmer-immigration-misconceptions
 
 > 有关「永居」和「国籍」的区别，请自行 Google 查阅，在此不再赘述。
 
-排除掉个别国家允许花钱直接买护照（公民身份，也就是入籍）的情况，**移民的本质其实就是获得签证（居住权，保留原国籍）**。如果所获得的签证在理论上可以永久居留，那就是所谓的**永居**（Permanent Residency，简称 **PR**），否则都是临居（Temporary Residence，简称 TR）。
+排除掉个别国家允许花钱直接买护照（公民身份，也就是入籍）的情况，**移民的本质其实就是获得签证（居住权，保留原国籍）**。如果所获得的签证在理论上可以永久居留，那就是所谓的**永居**（Permanent Residency，简称 **PR**），否则都是临居（Temporary Residency，简称 TR）。
 
 例如，就拿 [澳洲的签证体系（2019）](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing) 来说，常见的移民签证有：
 
@@ -52,11 +52,11 @@ permalink: /posts/programmer-immigration-misconceptions
 * 技术移民
   * 189（独立技术移民 PR）
   * 190（州担保 PR）
-  * 491（偏远地区担保 TR）=> 191（PR）
+  * 491（偏远地区担保 TR，前身是 489）=> 191（PR）
 * 雇主担保
   * 186 DE（PR）
-  * 482 [M](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream)（雇主担保 TR）=> 186 TRT（PR）
-  * 494（偏远地区雇主担保 TR）=> 191（PR）
+  * 482 [M](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/temporary-skill-shortage-482/medium-term-stream)（雇主担保 TR，前身是 457）=> 186 TRT（PR）
+  * 494（偏远地区雇主担保 TR，前身是 187）=> 191（PR）
 
 以上信息汇总自 [澳洲移民局官网 · Permanent resident](https://immi.homeaffairs.gov.au/visas/permanent-resident/visa-options)。  
 更多详细内容，不妨参考新石器移民留学的 [这篇文章](https://zhuanlan.zhihu.com/p/73311145)。
@@ -64,7 +64,7 @@ permalink: /posts/programmer-immigration-misconceptions
 ### 贫贱不能移
 
 根据 [百度百科 · 贫贱不能移](https://baike.baidu.com/item/%E8%B4%AB%E8%B4%B1%E4%B8%8D%E8%83%BD%E7%A7%BB) 的解释，此可译为「贫困卑贱的处境无法改变其坚强的意志」。  
-倘若让我厚颜无耻地对号入座，这实际上是符合的，故此在语义上就帮我扫清了这个误区。
+倘若让我厚颜无耻地对号入座，这实际上是符合的，故此在语义上就帮我扫清了这个误区，反而能更加鼓舞我。
 
 还是以上面的澳洲签证体系为例，也就只有投资移民是需要花大钱的，其余的都是非常「亲民」的。更具体一点，也就是：
 
