@@ -21,13 +21,13 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 * **482** Medium-term stream 雇主担保移民（TR）  
   当前持有的签证。
 
-这基本上是把技术移民和雇主担保都走了个遍，这也从侧面反映出澳洲移民形势的严峻。  
+这基本上是把技术移民和雇主担保都走了个遍，同时也从侧面反映出澳洲移民形势的严峻。  
 幸好上述签证所需材料和手续都大同小异，因此并不会造成太多额外的开销。  
 以下内容，除非开头有说明，否则基本都是必须的费用项。
 
 ## 中介费
 
-> 正常情况下，482 申请人无需考虑该项，该项费用都应由公司承担。故本节内容仅面向 189|190|489 申请人。
+> 本节内容仅面向 189|190|489 申请人，因 482 申请人的移民费用都应由雇主承担。
 
 在移民的道路上，时间就是金钱，因此我会倾向于**用钱买时间，把专业的事交给专业人士处理**（实际上是忙着 996，没时间 DIY 折腾，人艰不拆了吧）。另外，网上的热心 DIY 分享未必能及时跟上政策的改动，因而无法保证其有效性。当然了，找中介的优势是建立在对方「靠谱」之上的，否则还真不如 DIY。
 
@@ -111,7 +111,7 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 
 各类证件的公证费，大概是￥1000 ~ 2000 左右。
 
-> 小计：合￥2000
+> 小计：￥2000（略）
 
 ## 489 申请费
 
@@ -123,11 +123,11 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 
 ## 签证费
 
-189|190|489|482 的签证费都不尽相同，最新费用请查阅澳洲移民局官网 [​Fees and charges for Work visas](https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing/work)。
+正常情况下，482 申请人的移民费用都应由雇主承担，其中当然也包括签证费。
 
-例如，当时（2018.7）我的 482 (Medium-term stream) 签证费是 A$2245，算上刷 Visa 卡手续费，大概是￥1.1w 左右（按当时汇率）。
+而 189|190|489 的签证费都不尽相同，最新费用请查阅澳洲移民局官网 [​Fees and charges for Work visas](https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing/work)。
 
-> 小计：￥1.1w
+> 小计：￥0（雇主出）
 
 ## 体检费
 
@@ -141,10 +141,10 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 
 ## 总结
 
-我把上面都折腾了个遍，大概是￥8.5w 左右。  
+我把上面都折腾了个遍，大概是￥8w 左右。  
 若是夫妻二人，则可能是乘以 1.5 ~ 1.8 的样子。  
-若一开始就直接走 482，则可能只需要￥2w 左右。  
-反正无论如何，基本也只是广州珠江新城一个平方均价。
+若一开始就直接走 482，则可能就是几千块就搞定了。  
+反正无论如何，基本不会超过广州珠江新城一个平方均价。
 
 ## 参考资料
 
