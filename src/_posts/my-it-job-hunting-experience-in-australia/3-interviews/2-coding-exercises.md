@@ -23,7 +23,7 @@ permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/coding-ex
 
 * 算法主导型  
   澳洲大多数公司的面试都不考算法，就算要考难度也不会太高。  
-  当然如果你是要面试 Google、Microsoft、AWS 等，就当我没说。  
+  当然如果你是要面试 Google、Microsoft、Amazon 等，就当我没说。  
 
   在我的求职期里，也只遇到 Canva 和 Servian 考察算法。  
   它们都用 HackerRank.com，一个类似 LeetCode 的平台。  
