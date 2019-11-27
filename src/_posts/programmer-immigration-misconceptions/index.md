@@ -4,6 +4,7 @@ date: 2019-11-24
 tags:
   - 移民
 permalink: /posts/programmer-immigration-misconceptions
+vssue-id: 38
 ---
 
 ## 前言
