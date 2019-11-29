@@ -109,7 +109,7 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 
 ## 公证费
 
-各类证件的公证费，大概是￥1000 ~ 2000 左右。
+各类证件的公证费（其实就是翻译后盖个章），大概是￥1000 ~ 2000 左右。
 
 > 小计：￥1500（略）
 
