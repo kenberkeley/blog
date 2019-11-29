@@ -6,7 +6,7 @@ title: 感谢打赏
 
 ## PayPal
 
-[https://paypal.me/kenberkeley](https://www.paypal.me/kenberkeley/10)
+[https://paypal.me/kenberkeley](https://www.paypal.me/kenberkeley)
 
 ![paypal](./_images/paypal.png)
 
