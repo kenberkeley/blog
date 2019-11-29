@@ -99,7 +99,7 @@ permalink: /posts/basic-costs-of-immigration-to-australia
 
 > 482 申请人无需考虑该项。
 
-由于我的本科专业是通信工程，因此是 [EA](engineersaustralia.org.au/For-Migrants/Migration-Skills-Assessment/Migration-Fees) 评估。计算机专业的同学请参考 [ACS 官网](https://www.acs.org.au/msa/information-for-applicants.html)。
+由于我的本科专业是通信工程，因此是 [EA](https://www.engineersaustralia.org.au/For-Migrants/Migration-Skills-Assessment/Migration-Fees) 评估。计算机专业的同学请参考 [ACS 官网](https://www.acs.org.au/msa/information-for-applicants.html)。
 
 职业评估分加急与不加急，我**肯定是选加急**的，因此当时（2017.11）是花了 A$1060。
 
