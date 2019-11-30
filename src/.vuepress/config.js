@@ -90,8 +90,7 @@ module.exports = ctx => ({
     footer: {
       poweredBy: false,
       poweredByTheme: false,
-      custom: '<span style="font-size: 14px">' +
-        '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话<br>' +
+      custom: '欢迎<a href="/tip/">打赏</a>鼓励我继续产出，如果文章对你有帮助的话<br>' +
         `欢迎订阅我的 YouTube 频道 ${safeExternalLinkGen(YOUTUBE)}<br>` +
         `欢迎${safeExternalLinkGen(SUBSCRIBE_CN)}，所有文章均为原创，转载请注明出处<br>` +
         `若有建议、意见或者其他疑问等，欢迎到 ${safeExternalLinkGen(ISSUES)} 交流<br>` +
@@ -99,8 +98,7 @@ module.exports = ctx => ({
         'You can <a href="/tip/">BuyMeACoffee</a> to encourage me if it helps<br>' +
         `This is my YouTube channel ${safeExternalLinkGen(YOUTUBE)}<br>` +
         `Welcome ${safeExternalLinkGen(SUBSCRIBE_EN)} / Repost with original link<br>` +
-        `If any suggestions or questions, please raise in ${safeExternalLinkGen(ISSUES)}` +
-      '</span>'
+        `If any suggestions or questions, please raise in ${safeExternalLinkGen(ISSUES)}`
     },
     lastUpdated: true,
     comments: {
