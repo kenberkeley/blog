@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/preparation
+lang: zh-CN
 ---
 
 正所谓磨刀不误砍柴工，在开始找工作之前，你需要了解更多东西，有备无患。

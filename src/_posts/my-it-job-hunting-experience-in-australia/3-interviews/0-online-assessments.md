@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/online-assessments
+lang: zh-CN
 ---
 
 大多数情况下，你不会遇到线上预评估（Online Assessments），直接就是电面了。  

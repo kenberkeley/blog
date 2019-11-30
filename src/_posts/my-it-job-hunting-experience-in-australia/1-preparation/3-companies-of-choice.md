@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/preparation/companies-of-choice
+lang: zh-CN
 ---
 
 ## 规模

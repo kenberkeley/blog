@@ -6,6 +6,7 @@ tags:
   - 求职
 permalink: /posts/tss-482-change-employer-tips
 vssue-id: 33
+lang: zh-CN
 ---
 
 ## 前言

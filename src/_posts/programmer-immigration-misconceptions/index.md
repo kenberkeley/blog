@@ -5,6 +5,7 @@ tags:
   - 移民
 permalink: /posts/programmer-immigration-misconceptions
 vssue-id: 38
+lang: zh-CN
 ---
 
 ## 前言

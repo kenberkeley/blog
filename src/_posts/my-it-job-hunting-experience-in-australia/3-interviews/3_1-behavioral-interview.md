@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/behavioral-interview
+lang: zh-CN
 ---
 
 行为面试的核心就是之前强调过的 Cultural Fit，其乃技术以外的主宰。  

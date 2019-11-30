@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/phone-screening
+lang: zh-CN
 ---
 
 通过简历筛选后，接下来通常就是电面。

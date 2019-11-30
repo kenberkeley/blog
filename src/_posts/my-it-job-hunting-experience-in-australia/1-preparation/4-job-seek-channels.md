@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/preparation/job-seek-channels
+lang: zh-CN
 ---
 
 > 有关简历的相关内容，都在之后的 [简历篇](../2-resume/index.md) 中专门谈及。

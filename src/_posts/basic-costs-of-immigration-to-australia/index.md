@@ -5,6 +5,7 @@ tags:
   - 移民
   - 签证
 permalink: /posts/basic-costs-of-immigration-to-australia
+lang: zh-CN
 ---
 
 > 在阅读本文前，你得了解澳洲移民的基本概念与流程，例如「什么是 EOI」等。

@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/interviews/coding-exercises
+lang: zh-CN
 ---
 
 > 严格意义上，「做题」其实不属于「面试」。  

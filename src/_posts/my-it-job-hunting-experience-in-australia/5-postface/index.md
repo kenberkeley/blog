@@ -5,6 +5,7 @@ category: 我的澳洲 IT 求职经历
 tags:
   - 求职
 permalink: /posts/my-it-job-hunting-experience-in-australia/postface
+lang: zh-CN
 ---
 
 终于，好不容易写到了最后的结语。
