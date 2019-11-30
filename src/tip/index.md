@@ -1,19 +1,19 @@
 ---
-title: 感谢打赏
+title: Buy Me A Coffee
 ---
 
-## 你的打赏会让我更有动力产出更多有价值的内容 :pray::pray::pray:
+## THANK YOU ! :pray::pray::pray:
 
-## PayPal
+### 1. PayPal
 
 [https://paypal.me/kenberkeley](https://www.paypal.me/kenberkeley)
 
 ![paypal](./_images/paypal.png)
 
-## 微信扫一扫
+### 2. WeChat Pay | 微信扫一扫
 
 ![wepay](./_images/wepay.jpg)
 
-## 支付宝扫一扫
+### 3. Alipay | 支付宝扫一扫
 
 ![alipay](./_images/alipay.jpg)
