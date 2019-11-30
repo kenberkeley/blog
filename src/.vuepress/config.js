@@ -97,7 +97,7 @@ module.exports = ctx => ({
         `若有建议、意见或者其他疑问等，欢迎到 ${safeExternalLinkGen(ISSUES)} 交流<br>` +
         '<br>' +
         'You can <a href="/tip/">BuyMeACoffee</a> to encourage me if it helps<br>' +
-        `Here is my YouTube channel ${safeExternalLinkGen(YOUTUBE)}<br>` +
+        `This is my YouTube channel ${safeExternalLinkGen(YOUTUBE)}<br>` +
         `Welcome ${safeExternalLinkGen(SUBSCRIBE_EN)} / Repost with original link<br>` +
         `If any suggestions or questions, please raise in ${safeExternalLinkGen(ISSUES)}` +
       '</span>'
