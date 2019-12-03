@@ -8,6 +8,10 @@ permalink: /posts/my-it-job-hunting-experience-in-australia/preparation/remunera
 lang: zh-CN
 ---
 
+<div class="responsive-youtube-video">
+  <iframe src="https://www.youtube.com/embed/1WUg3HBBwAo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## 待遇概述
 
 ### 薪酬
