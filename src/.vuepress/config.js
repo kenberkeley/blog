@@ -78,9 +78,9 @@ module.exports = ctx => ({
       }
     },
     nav: [
-      { text: 'Home', link: '/', exact: true },
-      { text: 'Articles', link: '/posts/' },
-      { text: 'BuyMeACoffee', link: '/tip/' },
+      { text: 'Home 首页', link: '/', exact: true },
+      { text: 'Articles 文章', link: '/posts/' },
+      { text: 'BuyMeACoffee 打赏', link: '/tip/' },
       { text: 'YouTube', link: YOUTUBE.link },
       ISSUES
     ],
