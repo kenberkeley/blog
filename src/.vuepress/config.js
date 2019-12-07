@@ -98,7 +98,7 @@ module.exports = ctx => ({
         '<br>' +
         'You can <a href="/tip/">BuyMeACoffee</a> to encourage me if it helps<br>' +
         `This is my YouTube channel ${safeExternalLinkGen(YOUTUBE)}<br>` +
-        `Welcome ${safeExternalLinkGen(SUBSCRIBE_EN)} / Repost with original link<br>` +
+        `Welcome ${safeExternalLinkGen(SUBSCRIBE_EN)} / Repost with original links<br>` +
         `If any suggestions or questions, please raise in ${safeExternalLinkGen(ISSUES)}`
     },
     lastUpdated: true,
