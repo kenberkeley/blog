@@ -111,7 +111,7 @@ module.exports = ctx => ({
       autoCreateIssue: true
     },
     pagination: {
-      perPage: 20
+      perPage: 10
     }
   }
 })
