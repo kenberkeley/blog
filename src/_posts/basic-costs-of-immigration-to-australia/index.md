@@ -150,6 +150,7 @@ lang: zh-CN
 ## 参考资料
 
 * [如何到澳洲工作](https://github.com/wahyd4/work-in-australia)
+* [澳洲軟體工程師 工作常見問題（簽證篇）](https://medium.com/@james1239090/%E6%BE%B3%E6%B4%B2%E8%BB%9F%E9%AB%94%E5%B7%A5%E7%A8%8B%E5%B8%AB-%E5%B7%A5%E4%BD%9C%E5%B8%B8%E8%A6%8B%E5%95%8F%E9%A1%8C-%E7%B0%BD%E8%AD%89-91e7cbd42bf9)
 * 自行 Google 搜索「澳洲移民费用」或「Australia Migration Costs」
 
 ## 拓展资料
