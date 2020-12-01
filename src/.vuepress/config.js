@@ -1,4 +1,9 @@
 require('dotenv-safe').config()
+
+const dayjs = require('dayjs')
+require('dayjs/locale/zh-cn')
+dayjs.locale('zh-cn')
+
 const safeExternalLinkGen = require('./_utils/safeExternalLinkGen')
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 
@@ -28,7 +33,8 @@ module.exports = ctx => ({
       indexSuffix: '/'
     }],
     ['vuepress-plugin-sitemap', {
-      hostname: HOSTNAME
+      hostname: HOSTNAME,
+      dateFormatter: lastUpdated => dayjs(lastUpdated).format() // Fix [RangeError: Invalid time value]
     }],
     ['vuepress-plugin-canonical', {
       baseURL: HOSTNAME,
