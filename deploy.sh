@@ -14,6 +14,9 @@ cd dist
 # echo 'www.example.com' > CNAME
 
 git init
+git config user.name "Ken Huang"
+git config user.email "kenhuang.au@gmail.com"
+
 git add -A
 git commit -m 'deploy'
 
