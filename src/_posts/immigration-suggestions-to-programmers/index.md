@@ -87,6 +87,8 @@ lang: zh-CN
 
 当然了，前提是「靠谱」，否则还真不如 DIY。
 
+> Tips：若想了解**靠谱**中介咨询，不妨加我微信 **kenberkeley**。
+
 ### 语言考试要应试
 
 > 雇主担保移民基本无需考虑该项，因为签证语言要求通常都很低，关键是远程视频面试时的沟通表达能力。可参考 [我的澳洲 IT 求职经历 · 面试篇](../my-it-job-hunting-experience-in-australia/3-interviews/index.md)。
