@@ -1,0 +1,14 @@
+diff --git a/node_modules/@vuepress/plugin-last-updated/index.js b/node_modules/@vuepress/plugin-last-updated/index.js
+index 72e4809..604bbf7 100644
+--- a/node_modules/@vuepress/plugin-last-updated/index.js
++++ b/node_modules/@vuepress/plugin-last-updated/index.js
+@@ -16,7 +16,8 @@ module.exports = (options = {}, context) => ({
+ })
+ 
+ function defaultTransformer (timestamp, lang, dateOptions) {
+-  return new Date(timestamp).toLocaleString(lang, dateOptions)
++  // return new Date(timestamp).toLocaleString(lang, dateOptions)
++  return new Date(timestamp).toISOString() // TODO: FIX_ME: Tmp fix [Updated: Invalid Date] which could not be fixed by https://www.wkii.net/Tech/use-vuepress-push-blog.html#%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E9%97%AE%E9%A2%98
+ }
+ 
+ function getGitLastUpdatedTimeStamp (filePath) {
