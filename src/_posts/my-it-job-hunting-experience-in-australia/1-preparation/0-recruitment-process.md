@@ -11,7 +11,7 @@ lang: zh-CN
 大致招聘流程如下：
 
 1. 电面（Phone screening）
-2. 做题（Coding exercises / Technical challenges）
+2. 做题（Coding exercises / Technical challenges）
 3. 现场面试（Onsite interviews，大厂可能有多轮）
 4. Offer + 背调（Reference check，小厂可能没有）
 

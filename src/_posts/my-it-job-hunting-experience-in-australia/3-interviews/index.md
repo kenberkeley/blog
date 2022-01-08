@@ -12,7 +12,7 @@ lang: zh-CN
 我们把之前 [准备篇 · 招聘流程](../1-preparation/0-recruitment-process.md) 的内容展开：
 
 1. [电面（Phone screening）](./1-phone-screening.md)
-2. [做题（Coding exercises / Technical challenges）](./2-coding-exercises.md)
+2. [做题（Coding exercises / Technical challenges）](./2-coding-exercises.md)
 3. 现场面试（Onsite interviews，大厂可能有多轮）  
   · [行为面试（Behavioral interview）](./3_1-behavioral-interview.md)  
   · [技术面试（Technical interview）](./3_2-technical-interview.md)

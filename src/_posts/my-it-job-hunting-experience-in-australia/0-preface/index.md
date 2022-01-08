@@ -28,4 +28,4 @@ lang: zh-CN
 
 本系列文章，是我对过去这段跌宕起伏的求职经历的总结，致力于打造成「如果我一开始就有这些指引就好了」的模样。上面也提到，这属于「抛砖引玉」，且[完全开源](https://github.com/kenberkeley/blog/tree/master/src/_posts/my-it-job-hunting-experience-in-australia)，你可以为此添砖加瓦（评论、开 [issues](https://github.com/kenberkeley/blog/issues)、提 PR 等），为后人打造出更加完备的澳洲 IT 求职知识库。
 
-> 在整合资源方面，[澳洲匠人学院（IT 匠人圈）](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw/videos)无疑是业内领先，在此衷心致敬。
+> 在整合资源方面，[澳洲匠人学院（IT 匠人圈）](https://www.youtube.com/channel/UCanQu2BJniNfGViaF23dJgw/videos)无疑是业内领先，在此衷心致敬。

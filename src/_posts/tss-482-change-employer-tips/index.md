@@ -23,7 +23,7 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 * 移民政策、签证手续等极其繁琐又严谨，需要花钱请移民中介来处理
 * 还需要为此付出数额不菲的雇主担保资格认证费、申请费、培训费等
-* 如果候选人因为某些原因被拒签，则之前所做的所有铺垫都是白费的
+* 如果候选人因为某些原因被拒签，则之前所做的所有铺垫都是白费的
 * 有身份的求职者太多了（大厂尤甚！），直接就能上班，没必要折腾
 
 总的来说，**从头开始做雇主担保是十分难能可贵的**。即便是花钱买雇主，一个 offer 要价 10w+ RMB 也是很普遍的，且之后往往都是自己给自己发工资。
@@ -63,9 +63,9 @@ TSS 482 是前 [457](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-l
 
 ## 对策
 
-我在写 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 系列文章时由于考虑到普适性，较少会提到签证问题。实际上其内容就是我作为 TSS 482 签证持有者的所有经验，而以下内容就是「遗失」的那一部分。因此，下面我会按照原系列文章结构进行展开。
+我在写 [我的澳洲 IT 求职经历](../my-it-job-hunting-experience-in-australia/index.md) 系列文章时由于考虑到普适性，较少会提到签证问题。实际上其内容就是我作为 TSS 482 签证持有者的所有经验，而以下内容就是「遗失」的那一部分。因此，下面我会按照原系列文章结构进行展开。
 
-* [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)
+* [前言](../my-it-job-hunting-experience-in-australia/0-preface/index.md)
 * [准备篇](../my-it-job-hunting-experience-in-australia/1-preparation/index.md)
   * [招聘流程](../my-it-job-hunting-experience-in-australia/1-preparation/0-recruitment-process.md)  
   有时候这也得看运气，或许两周内就可以收到 offer，但普遍都是一个月。

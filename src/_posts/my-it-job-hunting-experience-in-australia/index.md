@@ -10,7 +10,7 @@ permalink: /posts/my-it-job-hunting-experience-in-australia
 lang: zh-CN
 ---
 
-* [前言](./0-preface/index.md)
+* [前言](./0-preface/index.md)
 * [准备篇](./1-preparation/index.md)
   * [招聘流程](./1-preparation/0-recruitment-process.md)
   * [求职心态](./1-preparation/1-mentality.md)
