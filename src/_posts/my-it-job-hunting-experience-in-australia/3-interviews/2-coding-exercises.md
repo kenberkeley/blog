@@ -24,7 +24,7 @@ lang: zh-CN
 
 * 算法主导型  
   澳洲大多数公司的面试都不考算法，就算要考难度也不会太高。  
-  当然如果你是要面试 Google、Microsoft、Amazon 等，就当我没说。  
+  当然如果你是要面试 FANG 等，就当我没说。  
 
   在我的求职期里，也只遇到 Canva 和 Servian 考察算法。  
   它们都用 HackerRank.com，一个类似 LeetCode 的平台。  
@@ -106,7 +106,7 @@ Git log 几乎是最快了解候选人职业素养的途径。
 
 ### 代码风格
 
-由于业界有各类 IDE、Linter 及 Prettier（前端的美图秀秀、Photoshop），  
+由于业界有各类 IDE、ESLint、Prettier、Git pre-commit hook format，  
 因此，目前大家写出来的代码基本都差不多，比较难看出白板素颜。  
 尤其是用到 React / Vue 等非纯 JS 的项目，区别就更小了。  
 只要对语言特性稍微熟悉点，没有满屏的 for 循环，  

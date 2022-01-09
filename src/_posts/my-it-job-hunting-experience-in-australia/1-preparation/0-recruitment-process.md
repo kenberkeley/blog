@@ -12,7 +12,7 @@ lang: zh-CN
 
 1. 电面（Phone screening）
 2. 做题（Coding exercises / Technical challenges）
-3. 现场面试（Onsite interviews，大厂可能有多轮）
+3. 现场或远程面试（Onsite or remote interviews，大厂可能有多轮）
 4. Offer + 背调（Reference check，小厂可能没有）
 
 招聘周期视乎职位紧缺度、申请人数等诸多因素，跨度从数周到数月不等。

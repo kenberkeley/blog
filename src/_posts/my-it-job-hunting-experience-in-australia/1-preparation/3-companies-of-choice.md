@@ -34,7 +34,7 @@ lang: zh-CN
 ### 外包咨询
 
 在国内，由于人工相对便宜，很多公司都有自己的技术人员。  
-但在澳洲，选择第三方服务（SaaS 或外包）往往要比自己请人划算。  
+但在澳洲，选择第三方服务（Consultancy 或 SaaS）往往要比自己请人划算。  
 即便要请人，合同工（contractor）也往往比正式员工（permanent role）走俏。
 
 在澳洲，软件咨询服务行业的发展相当不错。  
@@ -63,26 +63,6 @@ lang: zh-CN
 ### 悉尼
 
 ### 墨尔本
-
-* NAB
-
-* ANZ
-
-* REA
-
-* Sportsbet
-
-* SEEK
-
-* Carsales
-
-* Redbubble
-
-* Envota
-
-* Xero
-
-* MYOB
 
 ### 布里斯班
 
