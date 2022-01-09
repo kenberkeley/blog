@@ -7,6 +7,8 @@ dayjs.locale('zh-cn')
 const safeExternalLinkGen = require('./_utils/safeExternalLinkGen')
 const extractPermalinkFromPost = require('./_utils/extractPermalinkFromPost')
 
+const isProd = process.env.NODE_ENV === 'production'
+
 const TITLE = 'Aussie Coder 土澳码农'
 const HOSTNAME = 'https://kenberkeley.github.io'
 const ISSUES = { text: 'Issues', link: 'https://github.com/kenberkeley/blog/issues' }
@@ -108,7 +110,7 @@ module.exports = ctx => ({
         `If any suggestions or questions, please raise in ${safeExternalLinkGen(ISSUES)}`
     },
     lastUpdated: true,
-    comments: {
+    comments: isProd && {
       platform: 'github',
       owner: 'kenberkeley',
       repo: 'blog',
