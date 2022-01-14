@@ -1,0 +1,12 @@
+diff --git a/node_modules/@vssue/vuepress-plugin-vssue/lib/enhanceApp.js b/node_modules/@vssue/vuepress-plugin-vssue/lib/enhanceApp.js
+index 933de30..624fbb4 100644
+--- a/node_modules/@vssue/vuepress-plugin-vssue/lib/enhanceApp.js
++++ b/node_modules/@vssue/vuepress-plugin-vssue/lib/enhanceApp.js
+@@ -8,6 +8,7 @@ export default ({ Vue }) => {
+     const vpOptions = JSON.parse(VSSUE_OPTIONS);
+     Vue.use(Vssue, Object.assign({}, vpOptions, {
+         api: VssueAPI,
++        proxy: url => `https://cors-anywhere.azm.workers.dev/${url}`, // TODO: FIX_ME: https://github.com/meteorlxy/vuepress-theme-meteorlxy/issues/114
+     }));
+     // get the vssue component registered by Vssue.Plugin
+     const VssueComponent = Vue.component('Vssue');
