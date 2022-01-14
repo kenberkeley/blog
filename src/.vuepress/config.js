@@ -116,7 +116,8 @@ module.exports = ctx => ({
       repo: 'blog',
       clientId: process.env.VSSUE_CLIENT_ID,
       clientSecret: process.env.VSSUE_CLIENT_SECRET,
-      autoCreateIssue: true
+      autoCreateIssue: true,
+      proxy: url => `https://cors-anywhere.azm.workers.dev/${url}` // fix https://github.com/meteorlxy/vssue/issues/131
     },
     pagination: {
       perPage: 10
