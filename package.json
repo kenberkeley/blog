@@ -10,13 +10,13 @@
     "url": "git+https://github.com/kenberkeley/blog.git"
   },
   "scripts": {
-    "dev": "vuepress dev src",
-    "build": "vuepress build src --dest dist",
+    "_reason_for: NODE_OPTIONS=--openssl-legacy-provider": "https://github.com/vuejs/vuepress/issues/3136#issuecomment-1893158158",
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider vuepress dev src",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider vuepress build src --dest dist",
     "deploy": "./deploy.sh",
     "postinstall": "patch-package"
   },
   "devDependencies": {
-    "@vuepress/plugin-google-analytics": "^1.1.0",
     "dayjs": "^1.9.6",
     "dotenv-safe": "^8.1.0",
     "markdown-it-replace-link": "^1.0.1",
@@ -26,6 +26,7 @@
     "vuepress-plugin-canonical": "^1.0.0",
     "vuepress-plugin-check-md": "0.0.2",
     "vuepress-plugin-clean-urls": "^1.0.3",
+    "vuepress-plugin-google-analytics-4": "^0.1.1",
     "vuepress-plugin-sitemap": "^2.1.2",
     "vuepress-theme-meteorlxy": "1.9.0"
   }

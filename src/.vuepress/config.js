@@ -27,8 +27,9 @@ module.exports = ctx => ({
   evergreen: true,
   plugins: [
     'vuepress-plugin-check-md',
-    ['@vuepress/google-analytics', {
-      ga: process.env.GOOGLE_ANALYTICS_ID
+    ['google-analytics-4', {
+      // https://github.com/vuejs/vuepress/issues/2713#issuecomment-1470599350
+      gtag: process.env.GOOGLE_ANALYTICS_4_MEASUREMENT_ID
     }],
     ['vuepress-plugin-clean-urls', {
       normalSuffix: '/',
