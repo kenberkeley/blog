@@ -76,7 +76,6 @@ lang: zh-CN
 
 * [Glassdoor](https://www.glassdoor.com.au)  
   除薪资福利外，还有面经及员工反馈哦（注意甄别某些公司派内部人士或水军所发的和谐言论）。
-* [2019 澳洲 IT 薪资报告](https://zhuanlan.zhihu.com/p/64528136)（匠人 IT 圈）
 * [LinkedIn Salary](https://www.linkedin.com/salary)（貌似偏低）
 * 圈子内的同行互相探讨分享
 * 与猎头交谈时，试探性地询问目前的行情
