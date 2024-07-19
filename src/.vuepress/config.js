@@ -73,7 +73,7 @@ module.exports = ctx => ({
       description: `YouTube:<br>${safeExternalLinkGen(YOUTUBE)}`,
       email: 'kenhuang.au@gmail.com',
       location: 'Melbourne, VIC',
-      organization: 'Sportsbet',
+      organization: 'Canva',
       avatar: '/avatar.jpg',
       sns: {
         github: {
